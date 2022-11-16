@@ -1,4 +1,4 @@
-# Todo List App
+# Leaderboard
 
 In this project, I was able to build the html setup for the leaderboard project, where I can save the scores of diferent players. The main goal of this project, is to practice using API'S.
 
