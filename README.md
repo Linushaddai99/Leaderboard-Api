@@ -23,7 +23,7 @@ In this project, I was able to build the html setup for the leaderboard project,
 - run npm start
 
 
-👤 **Author1**
+👤 **Linus Shaddai**
 
 - GitHub: [@Linushaddai99](https://github.com/Linushaddai99)
 - Twitter: [@ShaddaiLinus](https://twitter.com/ShaddaiLinus)
